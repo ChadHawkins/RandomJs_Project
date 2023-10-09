@@ -1,4 +1,4 @@
-const weatherApikey = "45d423843d50f57b6fd8ecbbbed782c6";
+const weatherApikey = //"Use yoour own key";
 const weatherApiUrl = `https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}&units=metric`;
 
 const galleryImages = [
